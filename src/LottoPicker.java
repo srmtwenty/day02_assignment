@@ -19,24 +19,17 @@ public class LottoPicker {
     public static void main(String [] args){
         //reference name is completely upto you
         //datatype variable name = theValueToBeStored
-        String nameOfIt="Application Started...";
+        /*String nameOfIt="Application Started...";
         int x=5;
         float y = 5.5F;
 
-        System.out.println(nameOfIt);
+        System.out.println(nameOfIt); */
 
         //double randomNumber = Math.random();
 
         //System.out.println(randomNumber);
 
         Random random = new Random();
-        //int randomNumber=random.nextInt(30);
-        //System.out.println(randomNumber);
-        //int [] arr=new int[5];
-        //for(int i=0; i<5; i++){
-        //    arr.add(arr[i]);
-        //}
-        //System.out.println(arr);
 
         int numberOfNumbersGenerated=0;
         int total=5;
@@ -53,19 +46,19 @@ public class LottoPicker {
         // needs to be a statement that evaluates to true or false
 
 
-        //programming is the combination of iteratives and conditions
-        // Iteratives - repeating a process over and over
-        // Conditional - checking a condition (true or false) to decide what to do.
+        /* programming is the combination of iteratives and conditions
+         Iteratives - repeating a process over and over
+         Conditional - checking a condition (true or false) to decide what to do.
 
-        // Control flow - different types of statement that affect the flow of a program
+         Control flow - different types of statement that affect the flow of a program
 
-            // Iterative - loops;
-            //      while loop - while condition is true, keep executing
-            //      do while loop - similar to while loop, guaranteed to run once
+             Iterative - loops;
+                  while loop - while condition is true, keep executing
+                  do while loop - similar to while loop, guaranteed to run once
 
 
-            // Condition -
-            //      if - checks if a condition is true, if it is it will execute once
-            //      else - executes if an if statement evaluates other one.
+             Condition -
+                  if - checks if a condition is true, if it is it will execute once
+                  else - executes if an if statement evaluates other one.*/
     }
 }
